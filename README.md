@@ -1,7 +1,7 @@
 # ATMEGA32 Drivers
 ## This Repo contains my implementation of ATMEGA32 drivers as:
 - [**DIO**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/DIO%20Driver)
-- [**EXTI**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/EXTI%20Driver)
+<h4 align="center">- [**EXTI**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/EXTI%20Driver)</h4>
 - [**ADC**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/ADC%20Driver)
 - [**Watchdog Timer**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/Watchdog%20Driver)
 - [**Timers**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/Timers%20Driver)
@@ -12,4 +12,4 @@
 #### There are some test you can try: [Protues Tests](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/Protues%20Tests)
 
 #### Microcontroller DataSheet: [ATMEGA32 DataSheet](https://linktodocumentation)
-<h4 align="right"> Thanks for Visiting!</h4>
+<h4 align="center"> Thanks for Visiting!</h4>
