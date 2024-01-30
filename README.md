@@ -1,5 +1,4 @@
 # ATMEGA32 Drivers
-![ATMEGA32 Pinout](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/blob/main/ATMEGA32%20Pinout.jpg)
 ## This Repo contains my implementation of ATMEGA32 drivers as:
 - [**DIO**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/DIO%20Driver)
 - [**EXTI**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/EXTI%20Driver)
@@ -13,4 +12,7 @@
 #### There are some test you can try: [Protues Tests](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/Protues%20Tests)
 
 #### Microcontroller DataSheet: [ATMEGA32 Datasheet](https://linktodocumentation)
+
+### ATMEGA32 Pinout
+![ATMEGA32 Pinout](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/blob/main/ATMEGA32%20Pinout.jpg)
 <h4 align="center"> Thanks for Visiting!</h4>
