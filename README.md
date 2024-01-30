@@ -1,5 +1,5 @@
 # ATMEGA32 Drivers
-## This Repo contains my implementation of ATMEGA32 drivers as:
+### This Repo contains my implementation of ATMEGA32 drivers as:
 - [**DIO**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/DIO%20Driver)
 - [**EXTI**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/EXTI%20Driver)
 - [**ADC**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/ADC%20Driver)
