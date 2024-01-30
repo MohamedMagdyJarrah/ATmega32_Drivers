@@ -12,4 +12,4 @@
 #### There are some test you can try: [Protues Tests](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/Protues%20Tests)
 
 #### Microcontroller DataSheet: [ATMEGA32 DataSheet](https://linktodocumentation)
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting!</h4>
