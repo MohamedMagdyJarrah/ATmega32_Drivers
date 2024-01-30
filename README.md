@@ -1,4 +1,5 @@
 # ATMEGA32 Drivers
+![ATMEGA32 Pinout](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/blob/main/ATMEGA32%20Pinout.jpg)
 ## This Repo contains my implementation of ATMEGA32 drivers as:
 - [**DIO**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/DIO%20Driver)
 - [**EXTI**](https://github.com/MohamedMagdyJarrah/ATMEGA32_Drivers/tree/main/MCAL/EXTI%20Driver)
